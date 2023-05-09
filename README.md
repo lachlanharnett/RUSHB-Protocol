@@ -4,9 +4,9 @@ The server responds to GET requests from the client with the data from the reque
 
 Requires scapy 
 
-RUSHBSvr.py
-Usage: python3 RUSHBSvr.py
-Output: Port used.
+RUSHBSvr.py  
+Usage: python3 RUSHBSvr.py  
+Output: Port used.  
 
 RUSHBSampleClient.py
 Usage: python3 RUSHBSampleClient.py client_port server_port [-v verbose] [-m mode] [-o output]
